@@ -1,4 +1,4 @@
-# Bike-Sales-Project
+# Bike Sales Project
 
 This project is about analyzing Bike sales data and creating pivot tables and charts on Excel.
 
